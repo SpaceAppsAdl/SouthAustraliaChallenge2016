@@ -16,7 +16,7 @@ There are challenges this year in the following categories:
 * [Earth](https://2016.spaceappschallenge.org/challenges/earth),
 * [Journey to Mars](https://2016.spaceappschallenge.org/challenges/mars)
 
-Here in South Australia we like to put our own spin on things therefore in addition to the above, you are invited to tackle a special local challenge we have arranged in collaboration with Professor Grazielle Caprarelli, co-founder of [Marvel STEM](http://www.marvelstem.org/) and the Italian Osservatorio di Radioastronomia Istituto Nazionale di Astrofisica.
+Here in South Australia we like to put our own spin on things therefore in addition to the above, you are invited to tackle a special local challenge we have arranged in collaboration with [Associate Professor Graziella Caprarelli](http://www.unisanet.unisa.edu.au/staff/homepage.asp?Name=Graziella.Caprarelli), co-founder of [Marvel STEM](http://www.marvelstem.org/) and the Italian Osservatorio di Radioastronomia Istituto Nazionale di Astrofisica.
 
 # The Challenge
 
