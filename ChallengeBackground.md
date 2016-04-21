@@ -14,7 +14,7 @@ MARSIS is a synthetic-aperture, orbital sounding radar carried by the European S
 If the surface of the body being sounded is not smooth at the wavelength scale, i.e. if the r.m.s. of topographic heights is greater than a fraction of the wavelength, then part of the incident radiation will be scattered in directions different from the specular one. This means that areas of the surface that are not directly beneath the radar can scatter part of the incident radiation back towards it, and thus produce surface echoes that will reach the radar after the echo coming from nadir, which can mask, or be mistaken for, subsurface echoes. This surface backscattering from off-nadir directions is called "clutter".
 To validate the detection of subsurface interfaces, numerical electromagnetic models of surface scattering have been used to produce simulations of surface echoes, which are then compared to real echoes detected by the radar. An example of the use of simulated radar data is shown in Fig. 1, in which a radargram is compared with a simulated surface echo. A radargram is a representation of radar echoes acquired continuously during the movement of the spacecraft as a grey-scale image, in which the horizontal dimension is distance along the ground track, the vertical dimension is the round trip time of the echo, and the brightness of the pixel is a function of the strength of the echo.
 
-![Figure 1](/fig1a.png)
+![Figure 1](/fig1.png)
 
 Fig. 1: Map of ground track (top) and comparison between real (middle) and simulated (bottom) radargram for MARSIS data acquired during orbit 4011. The simulation reproduces echoes from surface topography only, while real data contain both surface and subsurface echoes. The red arrow points at weak subsurface reflections.
 

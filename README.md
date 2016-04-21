@@ -22,7 +22,10 @@ Here in South Australia we like to put our own spin on things therefore in addit
 
 _Note: this challenge is **NOT** eligible for progression to international judging_
 
-MARVEL (MARS Australian Remote Virtual Experiment Laboratory) is a virtual laboratory for students, teachers and scientists to study and analyse real-life planetary data from Mars-orbiting satellites. It allows students and teachers to experience authentic science and simultaneously progresses scientific discoveries about Mars. The MARVEL team now wants your help to develop a citizen science app so that anyone who wishes to can participate in this voyage of discovery!  
+![Marvel](MARVEL_LOGO.jpg)
+
+MARVEL ([MARS Australian Remote Virtual Experiment Laboratory](http://www.marvelstem.org/)) is a virtual laboratory for students, teachers and scientists to study and analyse real-life planetary data from Mars-orbiting satellites. It allows students and teachers to experience authentic science and simultaneously progresses scientific discoveries about Mars. The MARVEL team now wants your help to develop a citizen science app so that anyone who wishes to can participate in this voyage of discovery!
+
 
 We have a variety of algorithms for analysing the data. Presently these are coded in Matlab, and we would like assistance to improve this code and how it might be made more accessible  Examples include, converting the implementation into a Python library, using the code to make a game, or writing documentation or creating an Infographic, but we don't want to be too prescriptive so we can leave it up to your create imaginations!
 
