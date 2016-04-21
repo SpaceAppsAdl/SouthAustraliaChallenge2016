@@ -18,11 +18,13 @@ There are challenges this year in the following categories:
 
 Here in South Australia we like to put our own spin on things therefore in addition to the above, you are invited to tackle a special local challenge we have arranged in collaboration with [Associate Professor Graziella Caprarelli](http://www.unisanet.unisa.edu.au/staff/homepage.asp?Name=Graziella.Caprarelli), co-founder of [Marvel STEM](http://www.marvelstem.org/) and the Italian Osservatorio di Radioastronomia Istituto Nazionale di Astrofisica.
 
-# The South Australian Challenge
+# The South Australian Challenge - the MarvelSTEM Challenge
 
 _Note: this challenge is **NOT** eligible for progression to international judging_
 
 ![Marvel](MARVEL_LOGO.jpg)
+
+## MARS Australian Remote Virtual Experiment Laboratory
 
 MARVEL ([MARS Australian Remote Virtual Experiment Laboratory](http://www.marvelstem.org/)) is a virtual laboratory for students, teachers and scientists to study and analyse real-life planetary data from Mars-orbiting satellites. It allows students and teachers to experience authentic science and simultaneously progresses scientific discoveries about Mars. The MARVEL team now wants your help to develop a citizen science app so that anyone who wishes to can participate in this voyage of discovery!
 
@@ -40,6 +42,8 @@ In summary:
 * A simple software prototype has been developed, a detail description is in the [Challenge Background sheet](ChallengeBackground.md) 
 * The prototype was created using the computer language 'Matlab'
 * Matlab is a scientific computer langauge useful to scientists, but not suitable for use in say a website situation or a phone app.
+
+## MarvelSTEM Challenge Brief
 
 To participate in this challenge, use your imagination, design, art or your coding skills to assist MarvelSTEM with the above.
 
