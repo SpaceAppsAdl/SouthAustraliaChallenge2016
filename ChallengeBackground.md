@@ -16,7 +16,7 @@ To validate the detection of subsurface interfaces, numerical electromagnetic mo
 
 ![Figure 1](/fig1.png)
 
-Fig. 1: Map of ground track (top) and comparison between real (middle) and simulated (bottom) radargram for MARSIS data acquired during orbit 4011. The simulation reproduces echoes from surface topography only, while real data contain both surface and subsurface echoes. The red arrow points at weak subsurface reflections.
+_**Fig. 1:**_ *Map of ground track (top) and comparison between real (middle) and simulated (bottom) radargram for MARSIS data acquired during orbit 4011. The simulation reproduces echoes from surface topography only, while real data contain both surface and subsurface echoes. The red arrow points at weak subsurface reflections.*
 
 MARSIS radargrams are available from the public archive of the European Space Agency, the Planetary Science Achive (PSA). In the PSA, data are organized and documented according to the Planetary Data System archiving standard. A single MARSIS data file usually contains more than one radargram, as the radar is capable of acquiring data at two frequencies simultaneously. The data file contains also auxiliary information such as spacecraft position and altitude. Simulated radargrams aren't available for public access yet: although it is planned to provide them as a separate dataset, the method of distribution and the archiving standard have not been defined yet.
 
@@ -40,7 +40,7 @@ A demonstration software satisfying most of the above requirements has been deve
 
 ![Figure 2](/fig2.png)
 
-Fig. 2: Screenshot of a Matlab tool demonstrating a possible implementation of the proposed application.
+_**Fig. 2:**_ *Screenshot of a Matlab tool demonstrating a possible implementation of the proposed application.*
 
 The two top panels show radargrams acquired simultaneously at two different frequencies above an area of interest, while the bottom ones display the corresponding radar echo simulations.
 
