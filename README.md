@@ -24,6 +24,8 @@ MARVEL (MARS Australian Remote Virtual Experiment Laboratory) is a virtual labor
 
 We have a variety of algorithms for analysing the data. Presently these are coded in Matlab, and we would like assistance to improve this code and how it might be made more accessible  Examples include, converting the implementation into a Python library, using the code to make a game, or writing documentation or creating an Infographic, but we don't want to be too prescriptive so we can leave it up to your create imaginations!
 
+Please read the [Challenge Background sheet](ChallengeBackground.md) for an briefing on the analysis to date.
+
 # Stay Tuned
 
 Further information, including judging criteria, will be released closer to the event.
