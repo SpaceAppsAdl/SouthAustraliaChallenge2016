@@ -26,18 +26,36 @@ _Note: this challenge is **NOT** eligible for progression to international judgi
 
 MARVEL ([MARS Australian Remote Virtual Experiment Laboratory](http://www.marvelstem.org/)) is a virtual laboratory for students, teachers and scientists to study and analyse real-life planetary data from Mars-orbiting satellites. It allows students and teachers to experience authentic science and simultaneously progresses scientific discoveries about Mars. The MARVEL team now wants your help to develop a citizen science app so that anyone who wishes to can participate in this voyage of discovery!
 
-
-We have a variety of algorithms for analysing the data. Presently these are coded in Matlab, and we would like assistance to improve this code and how it might be made more accessible  Examples include, converting the implementation into a Python library, using the code to make a game, or writing documentation or creating an Infographic, but we don't want to be too prescriptive so we can leave it up to your create imaginations!
-
 Please read the [Challenge Background sheet](ChallengeBackground.md) for an briefing on the analysis to date.
+
+The material describing [mars express - the search for water](http://sci.esa.int/mars-express/31033-objectives/?fobjectid=31033&fbodylongid=658)
+and the [mars express instrument design](http://sci.esa.int/mars-express/34826-design/?fbodylongid=1601) will also be useful.
+
+In summary:
+
+* MarvelSTEM is interested in analysing radargram images of Mars from the public archive of the European Space Agency, the Planetary Science Achive (PSA)
+* This includes classifying the images and looking for 'subsurface' "interfaces"
+* However at present the human eye is still much better than computer algorithms at this work. Even children can do it...
+* MarvelSTEM would like to produce some kind of tool both educational and useful that might allow even children to participate in this classification process
+* A simple software prototype has been developed, a detail description is in the [Challenge Background sheet](ChallengeBackground.md) 
+* The prototype was created using the computer language 'Matlab'
+* Matlab is a scientific computer langauge useful to scientists, but not suitable for use in say a website situation or a phone app.
+
+To participate in this challenge, use your imagination, design, art or your coding skills to assist MarvelSTEM with the above.
+
+One key goal is to convert the computer program into a more accessible language, for example Python.
+
+However, if your skills are in other areas, and you wish to participate, feel free to let your imagination run - just some ideas include creating an infogram about the data, rewriting the background into a poster understandable to your children, and so on.
 
 # Stay Tuned
 
-Further information, including judging criteria, will be released closer to the event.
-
+Further information, including eligibility criteria for all challenges, and local prize categories, will be annouced at kickoff.
 
 # Links
 
 * [Official international website : https://2016.spaceappschallenge.org](https://2016.spaceappschallenge.org)
 * [Registration site & venue information](https://2016.spaceappschallenge.org/locations/adelaide-australia)
 * [Twitter updates by @SpaceAppsAdl](https://twitter.com/SpaceAppsAdl)
+* [MARS Australian Remote Virtual Experiment Laboratory](http://www.marvelstem.org/)
+* [mars express - the search for water](http://sci.esa.int/mars-express/31033-objectives/?fobjectid=31033&fbodylongid=658)
+* [mars express - instrument design](http://sci.esa.int/mars-express/34826-design/?fbodylongid=1601)
