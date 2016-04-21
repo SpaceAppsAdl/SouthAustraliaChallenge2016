@@ -38,6 +38,8 @@ If the user chooses the second option, he can record the position of several poi
 * Provide a menu allowing the choice between acquiring another interface in the same radargram or quitting the program.
 A demonstration software satisfying most of the above requirements has been developed in Matlab and can be made available if needed. A typical screenshot is shown in Figure 2.
 
+Dr. Caprarelli will also give a keynote about the project on the Saturday (first) morning of the hackathon.
+
 ![Figure 2](/fig2.png)
 
 _**Fig. 2:**_ *Screenshot of a Matlab tool demonstrating a possible implementation of the proposed application.*
@@ -47,3 +49,9 @@ The two top panels show radargrams acquired simultaneously at two different freq
 The thin blue lines in the top panels outline the position of the surface echo according to an automated detection algorithm, while the thick red line in the upper left panel has been traced by the user through the use of a mouse, and marks the position of the subsurface interface, which is faintly visible also in the upper right panel.
 
 Once the detection has been confirmed by the user, the longitude, latitude and depth of all data points in the radargram belonging to the subsurface interface will be recorded in a file.
+
+
+## Additional reading
+
+* [mars express - the search for water](http://sci.esa.int/mars-express/31033-objectives/?fobjectid=31033&fbodylongid=658)
+* [mars express - instrument design](http://sci.esa.int/mars-express/34826-design/?fbodylongid=1601)
