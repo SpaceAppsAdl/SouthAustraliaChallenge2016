@@ -49,6 +49,8 @@ In summary:
 
 The Matlab code is found at https://github.com/SpaceAppsAdl/SouthAustraliaChallenge2016/tree/master/MatlabCode
 
+A video of the Matlab code in use is at https://youtu.be/IoK3P6s1RHw
+
 ## MarvelSTEM Challenge Brief
 
 To participate in this challenge, use your imagination, design, art or your coding skills to assist MarvelSTEM with the above.
