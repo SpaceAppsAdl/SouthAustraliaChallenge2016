@@ -1,0 +1,78 @@
+ORBIT_NUMBER                   = Number of the orbit in which data were acquired
+
+OST_LINE_NUMBER                = Identification number of the line of the Operations Sequence Table containing the instrument parameters used during observations
+
+FRAME_ID   = Identification number of the echo acquired with a given OST line
+
+SCET_FRAME_WHOLE               = Spacecraft clock count at the time of data acquisition, integer part
+
+SCET_FRAME_FRAC                = Spacecraft clock count at the time of data acquisition, fractional part
+
+CENTRAL_FREQUENCY              = Frequency at which the radar was operating during data acquisition
+
+MARS_SOLAR_LONGITUDE           = The Mars solar longitude is the Mars-Sun angle, measured from the Northern Hemisphere spring equinox where its value is set to be 0
+
+SPACECRAFT_ALTITUDE            = Altitude of the spacecraft above the Martian ellipsoid, in km
+
+SUB_SC_LONGITUDE               = Longitude of the point of the Martian ellipsoid closest to the spacecraft
+
+SUB_SC_LATITUDE                = Latitude of the point of the Martian ellipsoid closest to the spacecraft
+
+LOCAL_TRUE_SOLAR_TIME          = Angle between the extension of the vector from the Sun to Mars and the projection on Mars' ecliptic plane of a vector from the center of Mars and the point on Mars surface that lies directly beneath the spacecraft
+
+SOLAR_ZENITH_ANGLE             = Angle between the zenith and the apparent position of the Sun measured at the point on the Martian ellipsoid that lies directly beneath the spacecraft
+
+FOOTPRINT_CENTER_LONGITUDE     = Longitude of the center of the radar footprint, the projection of the antenna beam on the Martian topography
+
+FOOTPRINT_CENTER_LATITUDE      = Latitude of the center of the radar footprint, the projection of the antenna beam on the Martian topography
+
+FOOTPRINT_VERTEX_LONGITUDE     = Longitude of the vertexes of the radar footprint, the projection of the antenna beam on the Martian topography
+
+FOOTPRINT_VERTEX_LATITUDE      = Latitude of the vertexes of the radar footprint, the projection of the antenna beam on the Martian topography
+
+ROUGHNESS_WITHIN_FOOTPRINT     = R.M.S. height of the topography within the radar footprint
+
+INCIDENCE_ANGLE                = Angle between the perpendicular at the Martian surface in the footprint center and the line connecting the footprint center and the radar
+
+FRESNEL_RADIUS                 = Radius of the first Fresnel zone at the frequencies of the radar
+
+ECHO_MODULUS_MINUS1_F1_NO_IONO = Modulus of the complex radar echo for beam -1 at the first frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_ZERO_F1_NO_IONO   = Modulus of the complex radar echo for beam 0 at the first frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_PLUS1_F1_NO_IONO  = Modulus of the complex radar echo for beam +1 at the first frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_MINUS1_F2_NO_IONO = Modulus of the complex radar echo for beam -1 at the second frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_ZERO_F2_NO_IONO   = Modulus of the complex radar echo for beam 0 at the second frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_PLUS1_F2_NO_IONO  = Modulus of the complex radar echo for beam +1 at the second frequency, before any correction for ionospheric dispersion is applied
+
+ECHO_MODULUS_MINUS1_F1_IONO    = Modulus of the complex radar echo for beam -1 at the first frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_ZERO_F1_IONO      = Modulus of the complex radar echo for beam 0 at the first frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_PLUS1_F1_IONO     = Modulus of the complex radar echo for beam +1 at the first frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_MINUS1_F2_IONO    = Modulus of the complex radar echo for beam -1 at the second frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_ZERO_F2_IONO      = Modulus of the complex radar echo for beam 0 at the second frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_PLUS1_F2_IONO     = Modulus of the complex radar echo for beam +1 at the second frequency, after the correction for ionospheric dispersion has been applied
+
+ECHO_MODULUS_MINUS1_F1_SIM     = Modulus of the complex radar echo for beam -1 at the first frequency, simulated using the MOLA Martian topographic dataset
+
+ECHO_MODULUS_ZERO_F1_SIM       = Modulus of the complex radar echo for beam 0 at the first frequency, simulated using the MOLA Martian topographic dataset
+
+ECHO_MODULUS_PLUS1_F1_SIM      = Modulus of the complex radar echo for beam +1 at the first frequency, simulated using the MOLA Martian topographic dataset
+
+ECHO_MODULUS_MINUS1_F2_SIM     = Modulus of the complex radar echo for beam -1 at the second frequency, simulated using the MOLA Martian topographic dataset
+
+ECHO_MODULUS_ZERO_F2_SIM       = Modulus of the complex radar echo for beam 0 at the second frequency, simulated using the MOLA Martian topographic dataset
+
+ECHO_MODULUS_PLUS1_F2_SIM      = Modulus of the complex radar echo for beam +1 at the second frequency, simulated using the MOLA Martian topographic dataset
+
+
+
+
+
