@@ -18,6 +18,10 @@ There are challenges this year in the following categories:
 
 Here in South Australia we like to put our own spin on things therefore in addition to the above, you are invited to tackle a special local challenge we have arranged in collaboration with [Associate Professor Graziella Caprarelli](http://www.unisanet.unisa.edu.au/staff/homepage.asp?Name=Graziella.Caprarelli), co-founder of [Marvel STEM](http://www.marvelstem.org/) and the Italian Osservatorio di Radioastronomia Istituto Nazionale di Astrofisica.
 
+# Hints and Tips
+
+Lead organiser, Andrew McDonnell (Twitter: [@pastcompute](https://twitter.com/pastcompute)) will run one (or more as needed) tutorials across weekend on the on how to use github to manage code, artwork, diagrams, etc. and on other tools you might find useful managing or creating your entry.
+
 # The South Australian Challenge - the MarvelSTEM Challenge
 
 _Note: this challenge is **NOT** eligible for progression to international judging_
@@ -43,13 +47,15 @@ In summary:
 * The prototype was created using the computer language 'Matlab'
 * Matlab is a scientific computer langauge useful to scientists, but not suitable for use in say a website situation or a phone app.
 
+The Matlab code is found at https://github.com/SpaceAppsAdl/SouthAustraliaChallenge2016/tree/master/MatlabCode
+
 ## MarvelSTEM Challenge Brief
 
 To participate in this challenge, use your imagination, design, art or your coding skills to assist MarvelSTEM with the above.
 
 One key goal is to convert the computer program into a more accessible language, for example Python.
 
-However, if your skills are in other areas, and you wish to participate, feel free to let your imagination run - just some ideas include creating an infogram about the data, rewriting the background into a poster understandable to your children, and so on.
+However, if your skills are in other areas, and you wish to participate, feel free to let your imagination run - just some ideas include creating an infogram about the data, rewriting the background into a poster understandable to your children, running image classification algorithms if you are a data scientists, and so on.
 
 # Stay Tuned
 
