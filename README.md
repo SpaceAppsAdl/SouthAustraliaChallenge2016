@@ -39,25 +39,29 @@ and the [mars express instrument design](http://sci.esa.int/mars-express/34826-d
 
 In summary:
 
-* MarvelSTEM is interested in analysing radargram images of Mars from the public archive of the European Space Agency, the Planetary Science Achive (PSA)
-* This includes classifying the images and looking for 'subsurface' "interfaces"
-* However at present the human eye is still much better than computer algorithms at this work. Even children can do it...
-* MarvelSTEM would like to produce some kind of tool both educational and useful that might allow even children to participate in this classification process
-* A simple software prototype has been developed, a detail description is in the [Challenge Background sheet](ChallengeBackground.md) 
+* The MARVEL project includes processing of ground penetrating radar data from Mars, collected by the MARSIS sounder on board Mars Express, available from the
+public Planetary Science Achive (PSA) of the European Space Agency. 
+* The processing includes classifying the images and looking for 'subsurface' "interfaces"
+* Within the MARVEL project we will produce a user-friendly processing for citizen science and education opening the possibility for interested members of the community to participate in the work of processing the MARSIS data. This will enable the MARSIS mission scientists to interpret the data and discover what “lurks” under the surface of Mars. 
+* A simple software prototype has been developed by the Co-Principal Investigation on the MARSIS experiment, Dr Orosei – and adapted for this challenge by Andrew McDonnell, and a detail description is in
+the Challenge Background sheet
 * The prototype was created using the computer language 'Matlab'
-* Matlab is a scientific computer langauge useful to scientists, but not suitable for use in say a website situation or a phone app.
-
+* Matlab is a scientific computer langauge useful to scientists, but not readily applicable to websites or mobile device.
+ 
 The Matlab code is found at https://github.com/SpaceAppsAdl/SouthAustraliaChallenge2016/tree/master/MatlabCode
 
 A video of the Matlab code in use is at https://youtu.be/IoK3P6s1RHw
 
 ## MarvelSTEM Challenge Brief
 
-To participate in this challenge, use your imagination, design, art or your coding skills to assist MarvelSTEM with the above.
+Help the MARVEL team reaching out to citizen scientists and school students using your imagination, design, art or coding skills. To participate in this challenge, use your imagination, design, art or your coding skills to assist the MARVEL team.
 
 One key goal is to convert the computer program into a more accessible language, for example Python.
 
-However, if your skills are in other areas, and you wish to participate, feel free to let your imagination run - just some ideas include creating an infogram about the data, rewriting the background into a poster understandable to your children, running image classification algorithms if you are a data scientists, and so on.
+owever, if your skills are in other areas, and you wish to participate, feel
+free to let your imagination run - just some ideas include creating an
+infogram about the data, producing a video, rewriting the available
+information into a poster understandable to your children, and so on.
 
 # Stay Tuned
 
