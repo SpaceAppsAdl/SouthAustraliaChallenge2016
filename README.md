@@ -52,7 +52,7 @@ The Matlab code is found at https://github.com/SpaceAppsAdl/SouthAustraliaChalle
 
 A video of the Matlab code in use is at https://youtu.be/IoK3P6s1RHw
 
-## MarvelSTEM Challenge Brief
+## MARVEL Challenge Brief
 
 Help the MARVEL team reaching out to citizen scientists and school students using your imagination, design, art or coding skills. To participate in this challenge, use your imagination, design, art or your coding skills to assist the MARVEL team.
 
